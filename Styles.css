@@ -9,7 +9,7 @@ nav a {text-decoration: none;} nav a:link {color: #000;} nav a:visited{color: #a
 nav ul{padding-left: 1em; list-style: none; display: flex;}
 ul {padding-left: 1em; list-style: none;}
 ol {} 
-#certificate {display: block; width: 80%; height: auto;}
+#certificate {display: block; width: 100%; height: auto;}
 li {margin-left: 1em; margin-right: 1em;}
 h2 {color: #950606; font-family: Georgia, "Times New Roman",  serif;}
 dt {color: #000033; font-weight: bold;}
